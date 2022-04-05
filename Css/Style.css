@@ -1,0 +1,41 @@
+body{
+  font-family: 'Oswald', sans-serif;
+}
+
+
+header{
+
+  height: 90vh;
+  width: 100%;
+  
+  background: linear-gradient( to right, rgba(67, 15, 51, 0.9) ,rgba(1, 6, 15, 0.5)) , url(https://images.pexels.com/photos/1926866/pexels-photo-1926866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+  background-size: cover;
+  background-position: 100%;
+  color: white;
+}
+
+.h-100{
+    height: 100%;
+    width: 100%;
+}
+
+.btn{
+   border-radius: 10rem !important;
+   padding: 0.8rem 2rem !important;
+  
+}
+
+.message{
+  background-color: #A9C9FF;
+  background-image: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);
+}
+
+.myicon{
+  font-size: 30px;
+  padding: 10px;
+}
+
+.button1{
+  text-align: center;
+}
+
